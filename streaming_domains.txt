@@ -1,0 +1,57 @@
+
+# BBC iPlayer
+bbci.co.uk
+iplayer.api.bbc.co.uk
+emp.bbci.co.uk
+mybbc.files.bbci.co.uk
+ibl.api.bbci.co.uk
+
+# ITVX
+itv.com
+itvx.com
+itvstatic.com
+itvhub.com
+
+# Channel 4 (All 4)
+channel4.com
+all4.com
+c4assets.com
+c4static.com
+
+# My5
+channel5.com
+my5.tv
+my5static.com
+
+# UKTV Play
+uktvplay.co.uk
+uktv.co.uk
+uktv-static.co.uk
+
+# STV Player
+stv.tv
+stvplayer.tv
+stvstatic.tv
+
+# S4C Clic
+s4c.cymru
+clic.s4c.cymru
+
+# Pluto TV
+pluto.tv
+plutotv.net
+pluto-video.com
+
+# Tubi
+tubitv.com
+tubi.video
+tubi.tv
+
+# Freevee
+freevee.com
+freevee.amazon.com
+freevee-assets.com
+
+# Netflix
+netflix.com
+nflxvideo.net
