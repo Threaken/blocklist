@@ -3,6 +3,8 @@ iplayer.api.bbc.co.uk
 emp.bbci.co.uk
 mybbc.files.bbci.co.uk
 ibl.api.bbci.co.uk
+a1.api.bbc.co.uk
+idcta.api.bbc.co.uk
 
 itv.com
 itvx.com
